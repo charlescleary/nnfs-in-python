@@ -6,6 +6,7 @@ from nnfs.datasets import spiral_data
 
 nnfs.init()
 
+
 # Dense Layer
 class LayerDense:
     """_summary_"""
